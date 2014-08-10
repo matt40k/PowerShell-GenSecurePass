@@ -6,9 +6,13 @@ Default length - 24 characters
 Min length - 12 characters
 
 Author: Matt Smith [(https://matt40k.uk)](https://matt40k.uk)
+
 Date: 10/08/2015
+
 Version 0.a
+
 License: GPL v2
+
 
 ##Example of usage:
 
